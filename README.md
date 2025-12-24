@@ -11,6 +11,20 @@
 
 ---
 
+## 🦾On going Demo
+Waiting for your contribution!!
+Proudly Desined by @sabamiso-rrsc 
+https://x.com/sabamiso_RRSC
+https://github.com/sabamiso-rrsc
+
+https://github.com/user-attachments/assets/05408393-df8f-465e-b853-2cc754531bc4
+
+
+![image 7](https://github.com/user-attachments/assets/416e029d-c5b0-4071-8188-8c5b091a95a0)
+
+![image 6](https://github.com/user-attachments/assets/5153a75d-96bd-4ba9-adb9-8dbcfddd16e6)
+
+
 ## ✨ Why CleanK?
 
 Maintaining public or commercial restrooms is expensive, repetitive, and—let’s be honest—unpleasant.  

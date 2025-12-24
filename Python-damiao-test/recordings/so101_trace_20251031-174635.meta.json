@@ -1,0 +1,28 @@
+{
+  "motors": [
+    {
+      "id": 1,
+      "type": "DM4310"
+    },
+    {
+      "id": 2,
+      "type": "DM6006"
+    },
+    {
+      "id": 3,
+      "type": "DM4310"
+    },
+    {
+      "id": 4,
+      "type": "DM6006"
+    },
+    {
+      "id": 5,
+      "type": "DM4310"
+    }
+  ],
+  "fps_nominal": 100,
+  "port": "/dev/cu.usbmodem00000000050C1",
+  "maxTorque": 10.0,
+  "K_p": 20.0
+}
